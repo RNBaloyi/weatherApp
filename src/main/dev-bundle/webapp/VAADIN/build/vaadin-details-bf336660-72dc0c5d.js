@@ -1,0 +1,1 @@
+import{y as e}from"./indexhtml-cc34bce9.js";const t={tagName:"vaadin-details",displayName:"Details",elements:[{selector:"vaadin-details",displayName:"Root element",properties:e}]};export{t as default};
